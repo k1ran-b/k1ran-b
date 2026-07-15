@@ -1,52 +1,27 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00cdff&center=true&width=435&lines=Welcome+to+my+profile;Full+Stack+Developer;Backend+Enthusiast" alt="Typing SVG" /></a>
+</h1>
 
-<h1 align="left" style="font-size: 32px">Kiran Bhattarai</h1>
+<p align="center">
+<a href="http://www.github.com/kiran-bhattarai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kiran-bhattarai&stroke=ffffff&background=0D1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
 
-###
+<br>
 
-<img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" height="120" alt="coding gif"   style="margin-bottom: 4px;" />
+ ⚡ 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝙰𝚞𝚝𝚑𝚎𝚗𝚝𝚒𝚌𝚊𝚝𝚒𝚘𝚗 & 𝚂𝚎𝚌𝚞𝚛𝚒𝚝𝚢
 
-<p align="left" style="font-size: 16px">I like building things that solve problems, experimenting with code, and understanding how systems work.</p>
+ 🥵 𝚂𝚝𝚞𝚌𝚔 𝚝𝚛𝚢𝚒𝚗𝚐 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚝𝚑𝚒𝚗𝚐𝚜 𝚋𝚎𝚝𝚝𝚎𝚛
 
-###
+ 🌃 𝚋𝚝𝚠 𝚍𝚊𝚛𝚔 𝚖𝚘𝚍𝚎 𝚘𝚗𝚕𝚢
 
-<h2 align="left" style="font-size: 30px">About me</h2>
+ 🌱 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖 𝙳𝚎𝚜𝚒𝚐𝚗 & 𝚂𝚌𝚊𝚕𝚊𝚋𝚒𝚕𝚒𝚝𝚢
 
-###
+<br>
 
-<p align="left" style="font-size: 16px">📚 I'm currently learning: improving code structure and exploring web development  <br>🎯 Goals: practice clean code, apply OOP, and build practical projects  </p>
+### 𝚂𝚔𝚒𝚕𝚕𝚜 𝚊𝚗𝚍 T𝚘𝚘𝚕𝚜
 
-###
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,mongodb,git,github,vscode&theme=dark" />
 
-<h2 align="left" style="font-size: 30px">I code with</h2>
+<br>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h2 align="left" style="font-size: 30px">Connect with me</h2>
-
-###
-
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=official.kiranbhattarai@gmail.com)
+![](https://komarev.com/ghpvc/?username=kiran-bhattarai&style=for-the-badge&abbreviated=true)
