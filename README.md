@@ -19,10 +19,11 @@
     /_-''    ''-_\   BIG FAN OF        Exploring random tools
                      NOT A BIG FAN OF  UI designing from scratch
 
+
 ### `~$ cat about.md`
 
+<img height="100" src="/assets/wojak.png" align="right" />
 
-<img width="150" src="/assets/wojak.png" align="right" />
 
 <ul>
 <li>Full-stack developer based on Nepal.</li>
