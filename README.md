@@ -22,7 +22,7 @@
 ### `~$ cat about.md`
 
 
-<img width="150" src="https://art.pixilart.com/f970599e5c33a7b.png" align="right" />
+<img width="150" src="/assets/wojak.png" align="right" />
 
 <ul>
 <li>Full-stack developer based on Nepal.</li>
